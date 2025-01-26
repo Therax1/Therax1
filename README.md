@@ -7,5 +7,3 @@
 + Développement Web FullStack : HTML, CSS, JavaScript, React, PHP, Laravel, MySQL/PostgreSQL
 + Intelligence Artificielle : FineTunning, Python
 ## 🎥 Création de Contenu
-
-YouTube : https://www.youtube.com/@therax_Dev-o2y (Soon ....)
