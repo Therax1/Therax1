@@ -1,8 +1,10 @@
 
-## <Therax />
-Salut ! Je suis @therax.
+## ``<Therax />``
+Salut ! Je suis @therax.`
+Hello i'm @therax
 
-## 🛠 Compétences
-+ Développement Web FullStack : HTML/CSS, JavaScript, React, Laravel, MySQL,
+
+## 🛠 Compétences / Skills
++ Développement Web FullStack : HTML/CSS, JavaScript, Laravel, MySQL,
 + Developpement de Logiciel : C#/Avalonia / MySQL 
 + Intelligence Artificielle : FineTunning, Python
