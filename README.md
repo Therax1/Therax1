@@ -1,7 +1,7 @@
 
 ## ``<Therax />``
-Salut ! Je suis @therax.`
-Hello i'm @therax
+### Salut ! Je suis @therax.
+### Hello i'm @therax
 
 
 ## 🛠 Compétences / Skills
