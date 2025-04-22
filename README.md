@@ -5,6 +5,6 @@
 
 
 ## 🛠 Compétences / Skills
-+ Développement Web FullStack : HTML/CSS, JavaScript, Laravel, MySQL,
-+ Developpement de Logiciel : C#/Avalonia / MySQL 
++ Développement Web FullStack : HTML/CSS, JavaScript/React, PHP/Laravel, MySQL,
++ Developpement de Logiciel : C#/wpf / MySQL 
 + Intelligence Artificielle : FineTunning, Python
