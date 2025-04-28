@@ -1,3 +1,5 @@
+## Statistiques de vues :
+![Profile views](https://komarev.com/ghpvc/?username=Therax1&style=flat-square)
 
 ## ``<Therax />``
 ### Salut ! Je suis @therax.
